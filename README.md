@@ -31,7 +31,7 @@ Um **template padrão de projeto** para facilitar e agilizar o desenvolvimento c
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone https://github.com/RonyAbreu/Template-Project.git
+   git clone https://github.com/RonyAbreu/Project-Template.git
 
 
 - Em seguida você vai abrir a sua IDE e clicar para criar um novo projeto, com maven archetype (como mostra na imagem abaixo):
