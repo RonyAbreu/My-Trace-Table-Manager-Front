@@ -19,8 +19,8 @@ Um **template padrão de projeto** para facilitar e agilizar o desenvolvimento c
 - 🛠️ **Melhorias no Workflow do GitHub**:
     - Templates para issues e pull requests.
     - 2 pipelines de workflow:
-        - Build e test.
-        - Criação, autenticação e deploy da imagem Docker.
+        - Build e test do projeto.
+        - Criação, autenticação, deploy da imagem Docker e conexão com servidor SSH para entrega contínua.
 - 🌐 **Configurações Avançadas**:
     - CORS e WebSocket.
     - Swagger para documentação.
