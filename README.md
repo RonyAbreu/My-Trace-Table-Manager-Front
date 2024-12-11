@@ -32,9 +32,26 @@ Um **template padrão de projeto** para facilitar e agilizar o desenvolvimento c
 1. Clone o repositório para a sua máquina:
    ```bash
    git clone https://github.com/RonyAbreu/Template-Project.git
+   
+### Você pode seguir pelo terminal, ou pela interface da dua IDE (As duas opções estão abaixo)
 
+## Pelo terminal
+1. Você vai digitar esse comando para iniciar a cópia do projeto
+    ```bash
+       mvn archetype:generate -DarchetypeGroupId=com.example -DarchetypeArtifactId=template-archetype
+   
+2. Então você vai poder alterar as informações do projeto que vem padrão, para as informações do seu projeto.
 
-- Em seguida você vai abrir a sua IDE e clicar para criar um novo projeto, com maven archetype (como mostra na imagem abaixo):
+![Alterando Configurações do Projeto](./img3.png)
+
+### Digite o nome do seu groupId, artifactId, packageName. Na version basta deixar a padrão
+### Depois digite **Y** no terminal e tecle **ENTER**
+
+---
+
+## Pela Interface da IDE
+
+- Você vai abrir a sua IDE e clicar para criar um novo projeto, com maven archetype (como mostra na imagem abaixo):
 ![Escolhendo Maven Archetype](./img1.png)
 
 ---
